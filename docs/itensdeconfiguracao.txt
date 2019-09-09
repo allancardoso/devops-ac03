@@ -1,0 +1,6 @@
+Itens de configuração
+
+* Escopo
+* Requisitos
+* Design (Modelagem)
+* Casos de Testes
